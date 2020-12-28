@@ -1,0 +1,11 @@
+{"from":{"id":"UD", "name":"Udaipur","longnitude":"34", "latitude":"45"},"to":{"id":"DL", "name":"Delhi","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 300, "time" :"02:30", "date":"20210101", "bus_id":"B01"}
+{"from":{"id":"JP", "name":"Jaipur","longnitude":"34", "latitude":"45"},"to":{"id":"DL", "name":"Delhi","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 200, "time" :"02:30", "date":"20210101", "flight_id":"A56"}
+{"from":{"id":"DL", "name":"Delhi","longnitude":"34", "latitude":"45"},"to":{"id":"JP", "name":"Jaipur","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 100, "time" :"02:30", "date":"20210101", "flight_id":"A57"}
+{"from":{"id":"JP", "name":"Jaipur","longnitude":"34", "latitude":"45"},"to":{"id":"AJ", "name":"Ajmer","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 400, "time" :"02:30", "date":"20210101", "flight_id":"A58"}
+{"from":{"id":"AJ", "name":"Ajmer","longnitude":"34", "latitude":"45"},"to":{"id":"DL", "name":"Delhi","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 200, "time" :"02:30", "date":"20210101", "flight_id":"A59"}
+{"from":{"id":"JP", "name":"Jaipur","longnitude":"34", "latitude":"45"},"to":{"id":"AJ", "name":"Ajmer","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 100, "time" :"02:30", "date":"20210101", "flight_id":"A60"}
+{"from":{"id":"AJ", "name":"Ajmer","longnitude":"34", "latitude":"45"},"to":{"id":"UD", "name":"Udaipur","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 500, "time" :"02:30", "date":"20210101", "flight_id":"A61"}
+{"from":{"id":"JP", "name":"Jaipur","longnitude":"34", "latitude":"45"},"to":{"id":"AJ", "name":"Ajmer","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 100, "time" :"02:30", "date":"20210101", "flight_id":"A62"}
+{"from":{"id":"AJ", "name":"Ajmer","longnitude":"34", "latitude":"45"},"to":{"id":"DL", "name":"Delhi","longnitude":"34", "latitude":"45"}, "duration":120, "fare" : 800, "time" :"02:30", "date":"20210101", "bus_id":"B02"}
+
+
